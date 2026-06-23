@@ -1,8 +1,10 @@
 {
   "_notlar": {
-    
+    "ZIA-CCAEB06B-3E575430-A7F9D233": "ben",
+    "ZIA-502472CD-30FE6776-97E2F1DA": "egomali"
   },
   "approved-devices": [
-   "ZIA-CCAEB06B-3E575430-A7F9D233" 
+   "ZIA-CCAEB06B-3E575430-A7F9D233",
+    "ZIA-502472CD-30FE6776-97E2F1DA"
   ]
 }
